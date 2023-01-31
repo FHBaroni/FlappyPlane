@@ -1,2 +1,2 @@
 # FlappyPlane
-study game made with unity #2
+study game  #2 made with unity
