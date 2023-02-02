@@ -365,11 +365,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &793457633 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 404694601574848702, guid: a5e41c1d62ba0ef42965a5c56085fec8, type: 3}
-  m_PrefabInstance: {fileID: 1054613996}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &943801876
 GameObject:
   m_ObjectHideFlags: 0
@@ -540,8 +535,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfd1f66bf031f6d409b78dde26585c08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  particleLeaf: {fileID: 793457633}
   textScore: {fileID: 214682873}
+  particleLeaf: {fileID: 404694601574848702, guid: a5e41c1d62ba0ef42965a5c56085fec8, type: 3}
 --- !u!95 &1027555267
 Animator:
   serializedVersion: 3

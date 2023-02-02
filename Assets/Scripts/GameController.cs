@@ -12,7 +12,7 @@ public class GameController : MonoBehaviour
         InvokeRepeating("CreateEnemy", 0, 2);
     }
        
-    void EndGame()
+    void CancelEnemy()
     {
         CancelInvoke("CreateEnemy");
     }
